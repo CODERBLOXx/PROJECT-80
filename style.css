@@ -1,0 +1,10 @@
+#body_background {
+    background: radial-gradient(yellow 0%,cyan 100%,lime 0%);
+}
+
+#heading {
+    font-weight: bolder;
+    font-family: fantasy;
+    font-style: italic;
+    color: blue;
+}
